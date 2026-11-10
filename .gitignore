@@ -1,0 +1,10 @@
+# estado de trabalho do DocFlow
+.release/
+
+# Python
+__pycache__/
+*.pyc
+
+# sistema
+.DS_Store
+Thumbs.db
