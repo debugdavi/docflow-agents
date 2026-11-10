@@ -1,5 +1,7 @@
 # DocFlow Agents
 
+![versão](https://img.shields.io/badge/versão-0.1.0-blue)
+
 Skills e agentes de IA que automatizam a **documentação de software no ciclo de release**: changelog, versionamento, README, Pull Request e tag/Release no GitHub. Escritos no formato aberto [Agent Skills](https://agentskills.io), então funcionam em Claude Code, GitHub Copilot, Cursor, Gemini CLI, Codex e em outras ferramentas que leem `SKILL.md`.
 
 ## Por que existe
